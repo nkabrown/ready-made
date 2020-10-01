@@ -1,0 +1,7 @@
+# development dependencies
+node_modules/
+web_modules/
+venv/
+
+3rdp/
+min/
